@@ -1,0 +1,7 @@
+| Filename | Initial content |
+|---|---|
+| `static/css/style.css` | `body { font-family: Arial, sans-serif; margin: 30px; }` |
+| `static/js/dashboard.js` | `console.log("Project monitoring dashboard loaded");` |
+| `services/risk_analyzer.py` | `def calculate_risk():` followed by an indented `pass` |
+| `data/sample_projects.json` | `[]` |
+| `tests/test_risk_analyzer.py` | `def test_placeholder():` followed by an indented `assert True` |
