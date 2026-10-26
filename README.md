@@ -1,6 +1,3 @@
-# project-monitoring-platform
-A web-based platform for infrastructure project monitoring, budget tracking, progress analysis, and risk alerts.
-
 # Web-Based Integrated Project-Monitoring Platform
 
 ## Overview
